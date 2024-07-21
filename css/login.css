@@ -1,0 +1,226 @@
+html{
+    background-color: #3fc396ab;
+    height: 126%;
+}
+
+.comtainer{
+    width: 533px;
+    position: relative;
+    top: 24px;
+    background-color: white;
+    height:  735px;
+    left: 348px;
+    border-radius: 15px;
+}
+
+img{
+    width: 132px;
+    position: relative;
+    top: 34px;
+    left: 9px;
+    height: 90px;
+}
+.heading{
+    position: relative;
+    top: 58px;
+    left: 35px;
+    font-size: 1.7rem;
+    font-weight: 900;
+    width: max-content;
+}
+.sub{
+    position: relative;
+    color: #00000082;
+    top: 65px;
+    left: 33px;
+    font-weight: lighter;
+    font-size: 0.9rem;
+    width: max-content;
+}
+.email{
+    position: relative;
+    top: 81px;
+    left: 33px;
+    font-weight: lighter;
+    font-size: 0.9rem;
+    width: max-content;
+}
+.emailb{
+    position: relative;
+    top: 90px;
+    left: 33px;
+    width: max-content;
+}
+.emailb input{
+    width: 443px;
+    height: 35px;
+    border-radius: 4px;
+    border: 1px solid #00000047;
+   
+}
+.btn{
+    position: relative;
+    top:104px;
+    left: 33px;
+    width: max-content;
+
+}
+.btn button{
+    width: 454px;
+    height: 41px;
+    background-color: #359b35;
+    font-weight: 900;
+    color: white;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+ 
+}
+.btn button:hover{
+    background-color: #38a638d6; ;
+}
+.or{
+    position: relative;
+    font-weight: 100;
+    color: #00000082;
+    left: 258px;
+    top: 129px;
+    width: max-content;
+ 
+}
+.line{
+    width: 198px;
+    position: relative;
+    left: 33px;
+    top: 141px;
+    height: 2px;
+    background-color: #0000004f;
+   
+
+}
+.line1{
+    width: 198px;
+    position: relative;
+    left: 292px;
+    top: 122px;
+    height: 2px;
+    background-color: #0000004f;
+  
+}
+
+.apple  button{
+    width: 457px;
+    position: relative;
+    background-color: white;
+    top: 151px;
+    left: 33px;
+    height: 42px;
+    border-radius: 4px;
+    border: 1px solid #00000047;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+.facebook button{
+    width: 457px;
+    position: relative;
+    background-color: white;
+    top: 163px;
+    left: 33px;
+    height: 42px;
+    border-radius: 4px;
+    border: 1px solid #00000047;
+    font-weight: 600;
+    cursor: pointer;
+  
+}
+.Google button{
+    width: 457px;
+    position: relative;
+    background-color: white;
+    top: 173px;
+    left: 33px;
+    height: 42px;
+    border-radius: 4px;
+    border: 1px solid #00000047;
+    font-weight: 600;
+    cursor: pointer;
+   
+}
+.apple button img{
+    width: 22px;
+    position: relative;
+    height: 15px;
+    top: 2px;
+    left: -11px;
+}
+.facebook button img{
+    width: 22px;
+    position: relative;
+    height: 15px;
+    top: 2px;
+    left: -11px;
+}
+.Google button img{
+    width: 22px;
+    position: relative;
+    height: 15px;
+    top: 2px;
+    left: -11px;
+}
+
+.apple button:hover{
+    background-color: #ede9e985;
+}
+.facebook button:hover{
+    background-color: #ede9e985;
+}
+.Google button:hover{
+    background-color: #ede9e985;
+}
+.nw{
+    position: relative;
+    top: 200px;
+    left: 33px;
+    font-size: 0.9rem;
+    color: #00000082;
+    width: max-content;
+}
+.nw a{
+    background-color:white;
+    color:  #359b35;
+    text-decoration: none;
+}
+.nw a:hover{
+    text-decoration: underline;
+}
+.help{
+    position: relative;
+    top: 272px;
+    left: 329px;
+    color: #00000082;
+    font-size: 0.9rem;
+    width: max-content;
+}
+.privacy{
+    position: relative;
+    top: 255px;
+    left: 383px;
+    color: #00000082;
+    font-size: 0.9rem;
+    width: max-content;
+}
+.terms{
+    position: relative;
+    top: 238px;
+    left: 451px;
+    color: #00000082;
+    font-size: 0.9rem;
+    width: max-content;
+}
+.privacy:hover,.terms:hover,.help:hover{
+text-decoration:underline;
+}
+.terms,.privacy,.help{
+    cursor: pointer;
+}
